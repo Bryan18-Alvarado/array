@@ -11,5 +11,7 @@ form.addEventListener('submit', async (event) => {
   const url = `/static/data/heroes.json`
   const heroes = await fetch(url).then((Response) => Response.json())
 
-  heroes.forEach((hero) => {})
+  heroes.forEach((hero) => {
+    console.log(hero.nombre)
+  })
 })
