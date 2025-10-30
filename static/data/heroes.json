@@ -1,0 +1,402 @@
+[
+  {
+    "nombre": "Spider-Man (Peter Parker)",
+    "super_poder": "Sentido arácnido, fuerza y agilidad sobrehumana, trepar paredes.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Nueva York",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Superman (Clark Kent)",
+    "super_poder": "Vuelo, super fuerza, invulnerabilidad, visión de calor.",
+    "sexo": "M",
+    "planeta_origen": "Krypton",
+    "ciudad_accion": "Metrópolis",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Wonder Woman (Diana Prince)",
+    "super_poder": "Fuerza divina, vuelo, lazo de la verdad, durabilidad.",
+    "sexo": "F",
+    "planeta_origen": "Temiscira",
+    "ciudad_accion": "Washington D.C.",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Iron Man (Tony Stark)",
+    "super_poder": "Intelecto de genio, armadura de combate tecnológica.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Nueva York / Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Batman (Bruce Wayne)",
+    "super_poder": "Maestría en artes marciales, intelecto superior, gadgets de alta tecnología.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Gotham",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Capitán América (Steve Rogers)",
+    "super_poder": "Fuerza, agilidad y resistencia de nivel máximo humano, escudo de Vibranium.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Flash (Barry Allen)",
+    "super_poder": "Súper velocidad, acceso a la Fuerza de la Velocidad.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Central City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Hulk (Bruce Banner)",
+    "super_poder": "Fuerza, resistencia e invulnerabilidad ilimitadas (basadas en la ira).",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Linterna Verde (Hal Jordan)",
+    "super_poder": "Anillo de poder que crea construcciones de energía a voluntad.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global / Espacio",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Thor Odinson",
+    "super_poder": "Control del trueno y el clima, super fuerza, Mjolnir/Stormbreaker.",
+    "sexo": "M",
+    "planeta_origen": "Asgard",
+    "ciudad_accion": "Tierra / Asgard",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Aquaman (Arthur Curry)",
+    "super_poder": "Respiración acuática, telepatía con vida marina, super fuerza.",
+    "sexo": "M",
+    "planeta_origen": "Atlántida",
+    "ciudad_accion": "Atlántida / Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Black Widow (Natasha Romanoff)",
+    "super_poder": "Maestra espía y artista marcial, intelecto de genio.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Martian Manhunter (J'onn J'onzz)",
+    "super_poder": "Cambio de forma, telepatía, vuelo, intangibilidad.",
+    "sexo": "M",
+    "planeta_origen": "Marte",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Doctor Strange (Stephen Strange)",
+    "super_poder": "Maestro de las artes místicas, manipulación de la realidad.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Nueva York",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Cyborg (Victor Stone)",
+    "super_poder": "Fuerza cibernética, manipulación de tecnología, cañón sónico.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Black Panther (T'Challa)",
+    "super_poder": "Sentidos mejorados, intelecto de genio, traje de Vibranium.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Wakanda",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Shazam (Billy Batson)",
+    "super_poder": "Fuerza, velocidad, vuelo, invocación de rayos.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Fawcett City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Scarlet Witch (Wanda Maximoff)",
+    "super_poder": "Manipulación de la magia del caos, alteración de la realidad.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Green Arrow (Oliver Queen)",
+    "super_poder": "Maestro arquero, experto en combate cuerpo a cuerpo.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Star City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Visión",
+    "super_poder": "Manipulación de densidad, vuelo, gema de la mente (históricamente).",
+    "sexo": "M",
+    "planeta_origen": "Tierra (creado)",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Batgirl (Barbara Gordon)",
+    "super_poder": "Intelecto de genio, artes marciales, hacker experta.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Gotham",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Namor (El Sub-Marinero)",
+    "super_poder": "Vuelo (tobillos alados), fuerza, vida acuática.",
+    "sexo": "M",
+    "planeta_origen": "Atlántida",
+    "ciudad_accion": "Global / Océanos",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Raven",
+    "super_poder": "Empatía, manipulación de almas, teletransportación, poderes demoníacos.",
+    "sexo": "F",
+    "planeta_origen": "Azarath",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Daredevil (Matt Murdock)",
+    "super_poder": "Sentidos mejorados (radar), experto luchador y abogado.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Hell's Kitchen, Nueva York",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Zatanna Zatara",
+    "super_poder": "Magia (lanzamiento de hechizos al hablar al revés), manipulación elemental.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Deadpool (Wade Wilson)",
+    "super_poder": "Factor de curación acelerado, rompe la cuarta pared, experto en armas.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Starfire (Koriand'r)",
+    "super_poder": "Vuelo, ráfagas de energía estelar, super fuerza.",
+    "sexo": "F",
+    "planeta_origen": "Tamaran",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Captain Marvel (Carol Danvers)",
+    "super_poder": "Vuelo, manipulación y absorción de energía cósmica, super fuerza.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global / Espacio",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Nightwing (Dick Grayson)",
+    "super_poder": "Acróbata experto, combate cuerpo a cuerpo, uso de bastones.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Blüdhaven",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Ghost Rider (Robbie Reyes)",
+    "super_poder": "Transformación en espíritu de venganza, cadena de fuego, coche demoníaco.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Los Ángeles",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Bumblebee (Karen Beecher)",
+    "super_poder": "Encogimiento, vuelo, ráfagas sónicas.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Wolverine (James Howlett)",
+    "super_poder": "Factor de curación, esqueleto de Adamantium, garras retráctiles.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Plastic Man (Patrick O'Brian)",
+    "super_poder": "Elasticidad y cambio de forma ilimitados.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Cyclops (Scott Summers)",
+    "super_poder": "Ráfagas ópticas de energía concusiva.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Harley Quinn (Harleen Quinzel)",
+    "super_poder": "Inmunidad a toxinas, agilidad, experta en combate y psiquiatra.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Gotham",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Groot",
+    "super_poder": "Regeneración, fuerza sobrehumana, manipulación de flora.",
+    "sexo": "M",
+    "planeta_origen": "Planeta X",
+    "ciudad_accion": "Espacio",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Supergirl (Kara Zor-El)",
+    "super_poder": "Vuelo, super fuerza, invulnerabilidad, visión de calor (similar a Superman).",
+    "sexo": "F",
+    "planeta_origen": "Krypton",
+    "ciudad_accion": "National City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "She-Hulk (Jennifer Walters)",
+    "super_poder": "Fuerza y resistencia sobrehumana (mantiene la inteligencia).",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Nueva York",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Reverse-Flash (Eobard Thawne)",
+    "super_poder": "Súper velocidad negativa, viaje en el tiempo.",
+    "sexo": "M",
+    "planeta_origen": "Tierra (Siglo 25)",
+    "ciudad_accion": "Central City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Loki Laufeyson",
+    "super_poder": "Hechicería, ilusión, cambio de forma, intelecto superior.",
+    "sexo": "M",
+    "planeta_origen": "Jotunheim",
+    "ciudad_accion": "Global / Asgard",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Doctor Fate (Kent Nelson)",
+    "super_poder": "Maestría en hechicería, vuelo, invulnerabilidad mágica.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Jean Grey",
+    "super_poder": "Telepatía, telequinesis, potencial de la Fuerza Fénix.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Poison Ivy (Pamela Isley)",
+    "super_poder": "Manipulación de plantas, control mental por feromonas, inmunidad a toxinas.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Gotham",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Rocket Raccoon",
+    "super_poder": "Intelecto de genio, experto en tácticas y armas de fuego, ágil.",
+    "sexo": "M",
+    "planeta_origen": "Halfworld",
+    "ciudad_accion": "Espacio",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Black Canary (Dinah Lance)",
+    "super_poder": "Grito Canario (ráfaga sónica destructiva), experta en artes marciales.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Star City",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Silver Surfer (Norrin Radd)",
+    "super_poder": "Manipulación del Poder Cósmico, vuelo interestelar a alta velocidad.",
+    "sexo": "M",
+    "planeta_origen": "Zenn-La",
+    "ciudad_accion": "Espacio",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Deathstroke (Slade Wilson)",
+    "super_poder": "Intelecto y reflejos mejorados, maestro táctico y asesino.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Bruja Escarlata (Agatha Harkness)",
+    "super_poder": "Magia poderosa, manipulación de energía, absorción de fuerza vital.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  },
+  {
+    "nombre": "Blue Beetle (Jaime Reyes)",
+    "super_poder": "Traje cibernético (escarabajo) que genera armas y armaduras.",
+    "sexo": "M",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "El Paso",
+    "casa": "DC"
+  },
+  {
+    "nombre": "Elektra Natchios",
+    "super_poder": "Maestra ninja, telepatía limitada, factor de curación.",
+    "sexo": "F",
+    "planeta_origen": "Tierra",
+    "ciudad_accion": "Global",
+    "casa": "Marvel"
+  }
+]

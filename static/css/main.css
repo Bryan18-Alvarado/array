@@ -1,0 +1,20 @@
+body, html{
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: green;
+}
+
+.container-heroes{}
+
+.card{}
+
+.card-container{}
+
+.row{}
+
+.col-3{}
+
+.col-9{}
